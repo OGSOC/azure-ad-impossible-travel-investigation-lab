@@ -1,0 +1,15 @@
+UserPrincipalName: j.partington@company.com
+AppDisplayName: Exchange Online
+ClientAppUsed: Browser
+Location: London, United Kingdom
+IP Address: 81.145.23.18
+ResultType: 0
+Time: 2026-02-16 09:12:14
+
+UserPrincipalName: j.partington@company.com
+AppDisplayName: Exchange Online
+ClientAppUsed: Browser
+Location: Moscow, Russia
+IP Address: 185.221.76.34
+ResultType: 0
+Time: 2026-02-16 09:30:02
