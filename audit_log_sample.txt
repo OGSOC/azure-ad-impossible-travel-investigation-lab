@@ -1,0 +1,9 @@
+Operation: New-InboxRule
+User: j.partington@company.com
+ForwardTo: external.mail@protonmail.com
+Time: 2026-02-16 09:32:10
+
+Operation: Add-MailboxPermission
+User: j.partington@company.com
+Result: Failed
+Time: 2026-02-16 09:34:22
