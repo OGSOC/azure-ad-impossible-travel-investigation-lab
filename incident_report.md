@@ -2,7 +2,7 @@ Incident Report: Impossible Travel and Account Compromise
 
 Summary
 
-An Azure AD impossible travel alert was triggered for user j.partington@company.com. Subsequent investigation confirmed suspicious foreign login and mailbox manipulation.
+An Azure AD impossible travel alert was triggered for user j.buster@company.com. Subsequent investigation confirmed suspicious foreign login and mailbox manipulation.
 
 Timeline
 
