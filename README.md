@@ -34,7 +34,7 @@ This triggered an investigation into potential credential compromise.
 
 ## Initial Alert Details
 
-User: j.partington@company.com  
+User: j.buster@company.com  
 Application: Microsoft 365 Exchange Online  
 Client App: Browser  
 Authentication Method: Password + MFA  
